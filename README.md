@@ -1,4 +1,5 @@
 Project on React ->  https://eugenezakhno.github.io/car-physics/
+<img width="1251" alt="image" src="https://github.com/EugeneZakhno/car-physics/assets/30446748/a573ef70-667b-47d0-8943-73c5cd41a8b4">
 
 ## Available Scripts
 
