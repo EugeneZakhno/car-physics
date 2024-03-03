@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/car-physics/static/css/main.a92b501c.css",
+    "main.js": "/car-physics/static/js/main.d1164de1.js",
+    "index.html": "/car-physics/index.html",
+    "main.a92b501c.css.map": "/car-physics/static/css/main.a92b501c.css.map",
+    "main.d1164de1.js.map": "/car-physics/static/js/main.d1164de1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92b501c.css",
+    "static/js/main.d1164de1.js"
+  ]
+}
